@@ -2,6 +2,7 @@
 333
 
 new feature!!!
+еще что-то ауфегку
 
 $$$DELETEALLWARES
 $$$DELETEALLBARCODES
